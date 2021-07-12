@@ -24,3 +24,7 @@ The game ends when the user’s cash prize piles up to $1 million. For each ques
 
 - # Defining Our System
 
+
+
+
+[Doc1.docx](https://github.com/Kumararun1999/miniproject1/files/6798704/Doc1.docx)
