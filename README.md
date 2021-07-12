@@ -26,5 +26,5 @@ The game ends when the user’s cash prize piles up to $1 million. For each ques
 
 
 
+![image](https://user-images.githubusercontent.com/86274176/125233931-3ba1e100-e2fd-11eb-94c4-2343ea2c7aee.png)
 
-[Doc1.docx](https://github.com/Kumararun1999/miniproject1/files/6798704/Doc1.docx)
