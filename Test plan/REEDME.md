@@ -23,3 +23,8 @@ next
 next
 
 ![image](https://user-images.githubusercontent.com/86274176/125248081-47979e00-e311-11eb-80de-7e124303cc53.png)
+
+# successfully completed quiz
+
+
+![image](https://user-images.githubusercontent.com/86274176/125248487-ba087e00-e311-11eb-9e94-4bbae14447ef.png)
