@@ -26,6 +26,9 @@ Of the 2 rounds I mentioned above, the first is called the Warm-up Round; the se
 In the second and more interesting round of this quiz game in C, the user will be asked questions continuously, and for each right answer given, they will earn $100,000!
 The game ends when the user’s cash prize piles up to $1 million. For each question asked, there are 4 options, namely A, B, C and D. There are no negative markings, so the user’s accumulated cash money won’t be deducted for wrong answers to the questions.
 
+# Defining Our System
+
+![image](https://user-images.githubusercontent.com/86274176/125240079-3d70a200-e307-11eb-81a6-e24fba7ed9d2.png)
 
 
 
