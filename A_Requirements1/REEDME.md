@@ -30,5 +30,26 @@ The game ends when the user’s cash prize piles up to $1 million. For each ques
 
 ![image](https://user-images.githubusercontent.com/86274176/125240079-3d70a200-e307-11eb-81a6-e24fba7ed9d2.png)
 
+# How to Play
+
+
+Start the game.
+
+Enter your name.
+
+Press key according to the menu :-
+
+START GAME
+
+RULES/HELP
+
+HIGH SCORES
+
+QUIT
+
+Select Category (from 1 to 4)
+
+A question will be displayed with 4 options. Press the key (A/B/C/D) corresponding to the correct answer according to you.)
+Answer maximum number of questions correctly to achieve highest scores.
 
 
